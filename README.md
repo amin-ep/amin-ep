@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-🌱 I'm currently learning Vue.js  
+🌱 I'm currently learning PHP  
 💬 Ask me about React, Node.js, and Front-End Development  
 📫 How to reach me: amincode24@gmail.com
 
